@@ -3,8 +3,7 @@ title: "Probabilistic failure path approach on structural system-reliability-bas
 collection: publications
 category: conferences
 permalink: /publication/2023-07-09-ICASP-CONF
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-07-09
+date: 2023-07-09
 venue: '14th International Conference on Applications of Statistics and Probability in Civil Engineering'
 paperurl: 'http://www.tara.tcd.ie/handle/2262/103435'
 citation: 'Biton, N. I. D., & Lee, Y.-J. (2023). Probabilistic failure path approach on structural system-reliability-based design optimization of fatigue-induced failure. 14th International Conference on Applications of Statistics and Probability in Civil Engineering. http://www.tara.tcd.ie/handle/2262/103435'
